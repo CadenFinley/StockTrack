@@ -51,7 +51,3 @@ StockTrack is a Python-based project that allows users to download stock data, p
 - scikit-learn
 - yfinance
 - requests
-
-## License
-
-This project is licensed under the MIT License.
